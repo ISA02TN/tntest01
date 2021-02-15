@@ -23,7 +23,7 @@
   } ],
   "profile" : "http://iiif.io/api/image/2/level0.json",
   "width" : 3024,
-  "@id" : "http://kuzushiji20.sakura.ne.jp/iiif/dog_eddie",
+  "@id" : "https://github.com/ISA02TN/tntest01/tree/main/dog_eddie"
   "@context" : "http://iiif.io/api/image/2/context.json",
   "height" : 4032
 }
