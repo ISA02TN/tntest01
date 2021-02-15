@@ -1,0 +1,29 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 1, 2, 4, 8 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 604,
+    "height" : 806
+  }, {
+    "width" : 756,
+    "height" : 1008
+  }, {
+    "width" : 1008,
+    "height" : 1344
+  }, {
+    "width" : 1512,
+    "height" : 2016
+  }, {
+    "width" : 3024,
+    "height" : 4032
+  } ],
+  "profile" : "http://iiif.io/api/image/2/level0.json",
+  "width" : 3024,
+  "@id" : "http://kuzushiji20.sakura.ne.jp/iiif/dog_eddie",
+  "@context" : "http://iiif.io/api/image/2/context.json",
+  "height" : 4032
+}
