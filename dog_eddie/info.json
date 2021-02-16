@@ -23,7 +23,7 @@
   } ],
   "profile" : "http://iiif.io/api/image/2/level0.json",
   "width" : 3024,
-  "@id" : "https://github.com/ISA02TN/tntest01/tree/main/dog_eddie"
+  "@id" : "https://isa02tn.github.io/tntest01/dog_eddie"
   "@context" : "http://iiif.io/api/image/2/context.json",
   "height" : 4032
 }
