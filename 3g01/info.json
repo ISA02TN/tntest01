@@ -23,7 +23,7 @@
   } ],
   "profile" : "http://iiif.io/api/image/2/level0.json",
   "width" : 992,
-  "@id" : "http://localhost:8887/iiif/3g01",
+  "@id" : " https://isa02tn.github.io/tntest01/3g01",
   "@context" : "http://iiif.io/api/image/2/context.json",
   "height" : 1403
 }
